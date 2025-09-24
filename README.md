@@ -1,0 +1,5 @@
+<!DOCTYPE html><html lang="hu"><head>  <meta charset="UTF-8">  <meta name="viewport" content="width=device-width, initial-scale=1.0">  <title>Friss Tojások</title>  <style>    body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #fff7e6; color: #333; }    header { background: #f4c542; padding: 20px; text-align: center; }    h1 { margin: 0; }    .gallery { display: flex; flex-wrap: wrap; justify-content: center; padding: 20px; gap: 20px; }    .gallery img { max-width: 200px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); }    footer { text-align: center; padding: 10px; background: #f4c542; margin-top: 20px; }  </style></head><body>
+<header>  <h1>Minden nap tojás!</h1>  <p>Friss tyúk- és fürjtojások minden nap</p></header>
+<div class="gallery">  <img src="tyuk.jpg" alt="Tyúktojás">  <img src="furj.jpg" alt="Fürjtojás">  <img src="mix.jpg" alt="Tyúk és fürjtojások"></div>
+<footer>  <p>Kapcsolat: info@tojaskinalat.hu | +36 30 123 4567</p></footer>
+</body></html>
